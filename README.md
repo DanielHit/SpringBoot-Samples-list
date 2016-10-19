@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 ## SpringBoot架构的学习代码Demo
@@ -13,3 +14,7 @@ SpringBoot - 1.4.1 Realease
 |-------------------------------|--------------------------|------|
 | SpringBoot-Configuration-Demo | SpringBoot的各种配置使用 |      |
 
+=======
+# SpringBoot-Samples-list
+基于SpringBoot架构的各种Demo
+>>>>>>> f64e3f55259565e8086c88802896f2cce9c8b80c
